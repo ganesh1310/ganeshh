@@ -1,0 +1,8 @@
+1.create folder at desktop and create.txt file
+2. Right click open with Gitbash
+3. Run The follwing coomands - 1. git init 
+                               2. git status
+                               3. git add
+                               4. git commit -m "initial commit"
+                               5. Open Github and create repository and copy 3 commands
+                              
